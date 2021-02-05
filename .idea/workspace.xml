@@ -1,0 +1,715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82a259a4-e1ab-4099-b644-f2557d28e720" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/operate_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/send_email.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/Chip_yuliao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Chip_yuliao/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/Monkey_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Monkey_test/MonkeyTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/lunwen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lunwen/logic/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/.idea/yuliao_trans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yuliao_trans/trans_yuliao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/Data_analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/Data_analysis/pandas_test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/base/base_driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/handle_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/my_main/ui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Android_yuyin_autotool/public/handle_log.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_chip/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Chip_yuliao/handle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Android_yuyin_autotool/yuliao_trans/trans_yuliao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_10_59_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_00_41/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_02_12/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_03_42/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_05_13/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_17_11_06_43/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_52_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_54_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_55_41/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_57_11/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_13_58_43/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_00_14/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_03_51/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_05_21/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_15_03/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_16_32/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_21_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_22_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_24_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_25_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_31_22/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_32_52/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_35_12/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_36_42/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_39_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_14_41_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_27_23/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_28_53/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_53_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_55_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_57_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_15_58_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_00_06/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_01_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_03_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_04_37/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_44_50/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_46_20/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_16_58_33/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_00_19/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_03_21/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_04_51/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_11_07/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/original_log/uai_log_2020_04_20_17_12_36/uai_log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_10_59_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_00_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_02_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_03_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_05_13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_17_11_06_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_52_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_54_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_55_41.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_57_11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_13_58_43.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_00_14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_03_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_05_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_15_03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_16_32.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_21_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_22_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_24_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_25_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_31_22.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_32_52.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_35_12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_36_42.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_39_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_14_41_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_27_23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_28_53.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_53_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_55_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_57_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_15_58_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_00_06.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_01_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_03_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_04_37.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_44_50.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_46_20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_16_58_33.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_00_19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_03_21.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_04_51.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_11_07.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Logs/result_log/filter_uai_log_2020_04_20_17_12_36.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/Logs/runlog.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_28_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_10_58_38.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_17_13_06_36.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_44_17.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_58_00.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_16_59_46.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_01_57.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_02_48.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/Result/result_2020_04_20_17_10_34.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/config/log.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/file.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/operate_excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/../Voice_Tool/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" beforeDir="false" afterPath="$PROJECT_DIR$/../click_geidao/click_mygeidao.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="165473807">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="8" />
+          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.12" value="5" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.14" value="2" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cfg" value="1" />
+          <entry key="conf" value="2" />
+          <entry key="config" value="4" />
+          <entry key="log" value="2" />
+          <entry key="py" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ini" value="1" />
+          <entry key="Log" value="2" />
+          <entry key="Logstash" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="config" value="5" />
+          <entry key="py" value="12743" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="Python" value="12743" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/script/request.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/judge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3640">
+              <caret line="133" column="127" selection-start-line="133" selection-start-column="127" selection-end-line="133" selection-end-column="127" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1612407911933" expanded="true" signature="191:196" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+                <marker date="1612154427505" expanded="true" signature="2014:2015" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/send_url.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7196">
+              <caret line="263" column="26" selection-start-line="263" selection-start-column="26" selection-end-line="263" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest_UI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="116">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="e#22#36#0" expanded="true" />
+                <marker date="1612154895585" expanded="true" signature="625:628" ph="..." />
+                <marker date="1612154895585" expanded="true" signature="638:643" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/openpyxl/worksheet/worksheet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5236">
+              <caret line="234" selection-start-line="234" selection-end-line="234" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/log.conf">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/request.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Nlp_interface/operate_excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3892">
+              <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1612242443147" expanded="true" signature="786:791" ph="..." />
+                <marker date="1612242443147" expanded="true" signature="2999:3010" ph="..." />
+                <marker date="1612242443147" expanded="true" signature="3104:4835" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ACB1EE302412</find>
+      <find>请求返回的数据</find>
+      <find>请求返回的数</find>
+      <find>请求返回的数据是：</find>
+      <find>type</find>
+      <find>获取result_dev参数</find>
+      <find>action对比失败</find>
+      <find>name</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/asr.py" />
+        <option value="$PROJECT_DIR$/script/autoAsrProject.py" />
+        <option value="$PROJECT_DIR$/script/log.conf" />
+        <option value="$PROJECT_DIR$/script/request.config" />
+        <option value="$PROJECT_DIR$/script/autoNlpNew.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/autoNlpNew.py" />
+        <option value="$PROJECT_DIR$/temp_wei/change_name.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/main.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest_UI.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/request.config" />
+        <option value="$PROJECT_DIR$/Nlp_interface/operate_excel.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/judge.py" />
+        <option value="$PROJECT_DIR$/Nlp_interface/send_url.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="313" />
+    <option name="y" value="172" />
+    <option name="width" value="1561" />
+    <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yuyin_request" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yuyin_request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yuyin_request" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yuyin_request" type="462c0819:PsiDirectoryNode" />
+              <item name="Nlp_interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Yinqing" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.NLP_InterfaceTest_UI">
+    <configuration name="NLP_InterfaceTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuyin_request" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nlp_interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NLP_InterfaceTest_UI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuyin_request" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nlp_interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest_UI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="change_name" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuyin_request" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp_wei" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_wei/change_name.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuyin_request" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nlp_interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nlp_interface/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="send_url" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="yuyin_request" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Nlp_interface" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Nlp_interface/send_url.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.send_url" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.change_name" />
+      <item itemvalue="Python.NLP_InterfaceTest" />
+      <item itemvalue="Python.NLP_InterfaceTest_UI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NLP_InterfaceTest_UI" />
+        <item itemvalue="Python.send_url" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.NLP_InterfaceTest" />
+        <item itemvalue="Python.change_name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82a259a4-e1ab-4099-b644-f2557d28e720" name="Default Changelist" comment="" />
+      <created>1606353511664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606353511664</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1743941" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55917484" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/asr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyvenv.cfg">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/log.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/runlog.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="28">
+          <caret line="1" column="66" selection-start-line="1" selection-start-column="66" selection-end-line="1" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/autoNlpNew.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/openpyxl/reader/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="284" column="4" selection-start-line="284" selection-start-column="4" selection-end-line="284" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/autoAsrProject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1904">
+          <caret line="74" column="61" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/autoNlpNew.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2716">
+          <caret line="109" column="20" selection-start-line="109" selection-start-column="20" selection-end-line="109" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp_wei/change_name.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/openpyxl/styles/colors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/script/request.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/judge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3640">
+          <caret line="133" column="127" selection-start-line="133" selection-start-column="127" selection-end-line="133" selection-end-column="127" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1612407911933" expanded="true" signature="191:196" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+            <marker date="1612154427505" expanded="true" signature="2014:2015" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/send_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7196">
+          <caret line="263" column="26" selection-start-line="263" selection-start-column="26" selection-end-line="263" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/openpyxl/worksheet/worksheet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5236">
+          <caret line="234" selection-start-line="234" selection-end-line="234" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/log.conf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/request.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/operate_excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3892">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1612242443147" expanded="true" signature="786:791" ph="..." />
+            <marker date="1612242443147" expanded="true" signature="2999:3010" ph="..." />
+            <marker date="1612242443147" expanded="true" signature="3104:4835" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Nlp_interface/NLP_InterfaceTest_UI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="e#22#36#0" expanded="true" />
+            <marker date="1612154895585" expanded="true" signature="625:628" ph="..." />
+            <marker date="1612154895585" expanded="true" signature="638:643" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
